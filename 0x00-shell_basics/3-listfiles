@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 #!/bin/bash
 ls -l
 =======
-#!/bin/bash
-ls -l
->>>>>>> 25391292ef4b740f072fe44d1bedcc78e15fb6b5
